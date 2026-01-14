@@ -1,0 +1,22 @@
+---
+
+### 2. `config.yaml` (В корневой папке)
+```yaml
+app_settings:
+  version: "1.0.4-alpha"
+  sync_enabled: true
+  musk_repo_monitor: https://github.com/twitter/the-algorithm
+
+algo_weights_2026:
+  engagement:
+    like: 30.0
+    retweet: 20.0
+    reply: 1.0
+    quote: 15.0
+  penalties:
+    link_in_main_post: 0.5
+    low_quality_image: 0.8
+    mass_tagging: 0.1
+  web3_boost:
+    ticker_present: 1.5
+    crypto_narrative_match: 1.2
