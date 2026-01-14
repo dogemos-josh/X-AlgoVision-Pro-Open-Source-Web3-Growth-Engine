@@ -27,14 +27,3 @@ X-AlgoVision Pro | The ultimate X Algorithm &amp; Twitter SEO tool for Web3 grow
 1. Navigate to the [Releases](https://github.com/dogemos-josh/X-AlgoVision-Pro/releases) page.
 2. Download the latest `X-AlgoVision_Pro_v1.0.exe`.
 3. Run the application. No Python installation required.
-🛠 Tech Stack
-​Backend: Python 3.11+
-​Data Engine: High-performance binary core for real-time ranking simulation.
-​Integrations: X-API v2, DexScreener API, CoinGecko.
-​GUI: Flet (Modern Flutter-based Desktop UI).
-​📈 Roadmap
-​[x] v1.0: Initial release with 2024-2025 weights.
-​[ ] [T-Minus 5 Days] Official Musk Algorithm Sync & Weight Re-calibration.
-​[ ] v1.2: AI-Agent integration for automated Web3 engagement farming.
-​[ ] v1.5: Multi-account management for NFT/Token launches.
-​Disclaimer: This tool is for educational and SEO research purposes only. We do not support or encourage spamming activities.
